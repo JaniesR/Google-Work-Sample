@@ -24,5 +24,5 @@ class VideoPlaylist {
     }
     return fullList;
     }
-
+    }
 }
